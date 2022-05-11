@@ -1,0 +1,2 @@
+laptop_1                        ansible_host=10.20.9.137     ansible_user=usuario      ansible_password=usuario99-    ansible_connection=ssh  ansible_shell_type=powershell   ansible_ssh_extra_args='-o StrictHostKeyChecking=no'
+laptop_1                        ansible_host=       ansible_user=        ansible_password=    ansible_connection=ssh  ansible_shell_type=powershell   ansible_ssh_extra_args='-o StrictHostKeyChecking=no'

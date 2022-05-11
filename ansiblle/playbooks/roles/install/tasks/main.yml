@@ -1,0 +1,7 @@
+---
+- name: Install Software
+  win_chocolatey:
+    name: "{{ item }}"
+    state: present
+  with_items:
+    - firefox
